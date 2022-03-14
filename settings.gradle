@@ -3,11 +3,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
+        jcenter() // W
+        // arning: this repository is going to shut down soon
         maven {
             url 'https://jitpack.io'
         }
     }
 }
-rootProject.name = "EkycNavite"
+rootProject.name = "My Application"
 include ':app'
