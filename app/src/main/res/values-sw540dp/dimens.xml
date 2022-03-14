@@ -1,0 +1,75 @@
+<resources>
+  <dimen name="size_80dp">
+    120.0dp
+  </dimen>
+  <dimen name="size_32dp">
+    48.0dp
+  </dimen>
+  <dimen name="selfie_border_margin_horizontal">
+    24.0dp
+  </dimen>
+  <dimen name="selfie_border_margin_vertical">
+    24.0dp
+  </dimen>
+  <dimen name="id_card_border_margin_horizontal">
+    24.0dp
+  </dimen>
+  <dimen name="id_card_border_margin_vertical">
+    24.0dp
+  </dimen>
+  <dimen name="size_4dp">
+    6.0dp
+  </dimen>
+  <dimen name="size_8dp">
+    12.0dp
+  </dimen>
+  <dimen name="size_10dp">
+    15.0dp
+  </dimen>
+  <dimen name="size_12dp">
+    18.0dp
+  </dimen>
+  <dimen name="size_16dp">
+    24.0dp
+  </dimen>
+  <dimen name="size_18dp">
+    27.0dp
+  </dimen>
+  <dimen name="size_24dp">
+    36.0dp
+  </dimen>
+  <dimen name="size_40dp">
+    60.0dp
+  </dimen>
+  <dimen name="size_41dp">
+    61.5dp
+  </dimen>
+  <dimen name="size_50dp">
+    75.0dp
+  </dimen>
+  <dimen name="size_72dp">
+    108.0dp
+  </dimen>
+  
+
+    // sp
+    
+  <dimen name="size_10sp">
+    15.0sp
+  </dimen>
+  <dimen name="size_12sp">
+    18.0sp
+  </dimen>
+  <dimen name="size_14sp">
+    21.0sp
+  </dimen>
+  <dimen name="size_16sp">
+    24.0sp
+  </dimen>
+  <dimen name="size_18sp">
+    27.0sp
+  </dimen>
+  <dimen name="size_20sp">
+    30.0sp
+  </dimen>
+</resources>
